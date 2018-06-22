@@ -1,0 +1,5 @@
+com/apple/boostraploader/JunitRunner.class
+com/apple/pages/Login_Page.class
+com/apple/stepdefinition/MethodDefinition.class
+com/apple/pages/Home_Page.class
+com/apple/commonactions/FrequentMethods.class

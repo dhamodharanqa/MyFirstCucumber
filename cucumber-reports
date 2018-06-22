@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="0.193132">
+<testcase classname="Creating A Store" name="Login to SFO application" time="0.191363">
+<system-out><![CDATA[Given Open the SFO URL......................................................passed
+And Enter valid username and password.......................................passed
+Then Verify Login to the home page..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Creating A Store" name="Add Store" time="0.00154">
+<system-out><![CDATA[Given Click add new Store...................................................passed
+And enter Apple id as "1001"................................................passed
+And enter Store id as "5001"................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Creating A Store" name="Add Store 2" time="0.000149">
+<system-out><![CDATA[Given Click add new Store...................................................passed
+And enter Apple id as "1002"................................................passed
+And enter Store id as "5002"................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Creating A Store" name="Add Program" time="0.00008">
+<system-out><![CDATA[Given Click add new program.................................................passed
+And Enter program id "ProgramID"............................................passed
+And Enter Program Name "ProgramName"........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
